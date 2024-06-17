@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+    /* --primary: #FC4100;
+    --secondary: #FFC55A;
+    --accent1: #00215E;
+    --accent2: #2C4E80; */
+    
+    /* --primary: #e2c2c6;
+    --secondary: #b9929f;
+    --accent1: #2f0147;
+    --accent2: #610f7f; */
+}
+
+body{
+    --primary: #022b3a;
+    --secondary: #1f7a8c;
+    --accent1: #e1e5f2;
+    --accent2: #bfdbf7;
+
+    
+}

@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+  color: #ff9f66;
+}
+
+.bg-orange {
+  background-color: #ff5f00;
+}
+.bg-blue {
+  background-color: #002379;
+}
+
+.flex {
+  display: flex;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.item-center {
+  align-items: center;
+}
+.max-w-screen {
+  max-width: 100vw;
+}
+.min-h-50 {
+  min-height: 200px;
+}
+.rounded {
+  border-radius: 1rem;
+}
+.border {
+  border: 2px solid;
+}
+
+.border-black {
+  border-color: black;
+}
+
+.p-4 {
+  padding: 4px;
+}
+.m-4 {
+  margin: 4px;
+}
+.w-4 {
+  width: 160px;
+}
+.h-4 {
+  height: 160px;
+}
+.flex-col {
+  flex-direction: column;
+}
+.justify-center {
+  justify-content: center;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+
+.text-black {
+  color: black;
+}
+
+.text-base {
+  font-size: 1rem;
+}
+.text-xs{
+  font-size: 12px;
+}
